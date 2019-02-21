@@ -42,6 +42,7 @@ public class pizza {
       //System.out.print(info[ info.length - 1]);
       pizza = new char[h][l];
       
+     
       
       for( i = 0; i < h ; i++){
          for ( j = 0; j < l; j++ ) 

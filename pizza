@@ -1,5 +1,5 @@
 public class pizza {
-//s
+//ÖYKÜ İS HERE
    
    public static void toString( char[][] array ) {
       int i , j;
